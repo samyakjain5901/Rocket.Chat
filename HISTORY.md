@@ -1,4 +1,22 @@
 
+# 3.8.9
+`2021-02-19  ·  1 🐛  ·  1 👩‍💻👨‍💻`
+
+### Engine versions
+- Node: `12.18.4`
+- NPM: `6.14.8`
+- MongoDB: `3.4, 3.6, 4.0`
+- Apps-Engine: `1.19.0`
+
+### 🐛 Bug fixes
+
+
+- Message payload from `__my_messages__` stream ([#20801](https://github.com/RocketChat/Rocket.Chat/pull/20801))
+
+### 👩‍💻👨‍💻 Core Team 🤓
+
+- [@ggazzo](https://github.com/ggazzo)
+
 # 3.8.6
 `2021-01-26  ·  1 🐛  ·  1 👩‍💻👨‍💻`
 
